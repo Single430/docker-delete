@@ -1,4 +1,4 @@
-# docker-delete
+# docker-delete  docker 仓库镜像删除脚本
 
 > 先下载脚本到/usr/local/bin/目录下
 ```
